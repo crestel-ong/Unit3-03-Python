@@ -21,7 +21,7 @@ def main():
         print("You guessed correctly!")
     else:
         print("Incorrect, the number was {0}.".format(computer_number))
-        print("\nDone.")
+    print("\nDone.")
 
 
 if __name__ == "__main__":
